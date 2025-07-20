@@ -1,5 +1,6 @@
 # Invisible Piano - Kuch Kuch Hota Hai Scene Recreation
 
+![Image](https://github.com/user-attachments/assets/61102e98-4025-45cc-a364-7a1545637fa7)
 
 ### Recreate the magic of the invisible piano scene from *Kuch Kuch Hota Hai* with your webcam!
 
