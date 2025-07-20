@@ -36,7 +36,7 @@ for note in [
     "G4",
     "G4",
 ]:
-    path = f"./another_one/{note}.wav"
+    path = f"./notes/{note}.wav"
     if os.path.exists(path):
         notes_needed.append(pygame.mixer.Sound(path))
 
