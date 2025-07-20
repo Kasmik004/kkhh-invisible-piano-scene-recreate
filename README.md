@@ -53,6 +53,7 @@ This fun and interactive project uses computer vision and hand-tracking to simul
    ```bash
    python main.py
    ```
+6. Now show your fingers to the camera and press down the ring, index, and middle fingers. The notes will play sequentially; you just have to act like you are playing.😉 (One thing to keep in mind is that when you show your fingers first time to the camera, make sure they are facing upwards and not bent downwards)
 
 ---
 
